@@ -1,0 +1,11 @@
+pandas
+flwr==0.17.0
+urllib3
+boto3
+requests
+fastapi
+uvicorn[standard]
+pydantic
+tensorflow
+botocore
+keras
